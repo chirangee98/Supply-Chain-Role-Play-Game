@@ -1,0 +1,106 @@
+[{
+  "_id": {
+    "$oid": "6668aeab0f3c379a60acf2e0"
+  },
+  "userId": {
+    "$oid": "664f71470480b0766ea57854"
+  },
+  "weeks": 5,
+  "initialInventory": 100,
+  "deliveryLeadTime": 1,
+  "holdingCost": 10,
+  "backorderCost": 10,
+  "retailer": {
+    "$oid": "6627e2f39425291100e0139f"
+  },
+  "distributor": {
+    "$oid": "665a3a66e394d54145941f24"
+  },
+  "wholesaler": {
+    "$oid": "661cb992eb64f59fcd6cac4c"
+  },
+  "manufacturer": {
+    "$oid": "661cbaa3eb64f59fcd6cac51"
+  },
+  "status": "completed",
+  "weeksData": [
+    {
+      "$oid": "6668aeab0f3c379a60acf2e6"
+    },
+    {
+      "$oid": "6668aeab0f3c379a60acf2e8"
+    },
+    {
+      "$oid": "6668aeab0f3c379a60acf2ea"
+    },
+    {
+      "$oid": "6668aeab0f3c379a60acf2ec"
+    },
+    {
+      "$oid": "6668aeab0f3c379a60acf2ee"
+    }
+  ],
+  "date": {
+    "$date": "2024-06-11T20:08:11.652Z"
+  },
+  "createdAt": {
+    "$date": "2024-06-11T20:08:11.663Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-11T20:08:12.080Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "667717662c617f118db0ba80"
+  },
+  "userId": {
+    "$oid": "664f71470480b0766ea57854"
+  },
+  "weeks": 5,
+  "initialInventory": 50,
+  "deliveryLeadTime": 1,
+  "holdingCost": 10,
+  "backorderCost": 10,
+  "retailer": {
+    "$oid": "6627e2f39425291100e0139f"
+  },
+  "distributor": {
+    "$oid": "665a3a66e394d54145941f24"
+  },
+  "wholesaler": {
+    "$oid": "661cb992eb64f59fcd6cac4c"
+  },
+  "manufacturer": {
+    "$oid": "661cbaa3eb64f59fcd6cac51"
+  },
+  "status": "active",
+  "weeksData": [
+    {
+      "$oid": "667717662c617f118db0ba86"
+    },
+    {
+      "$oid": "667717662c617f118db0ba88"
+    },
+    {
+      "$oid": "667717662c617f118db0ba8a"
+    },
+    {
+      "$oid": "667717662c617f118db0ba8c"
+    },
+    {
+      "$oid": "667717662c617f118db0ba8e"
+    }
+  ],
+  "date": {
+    "$date": "2024-06-22T18:26:46.253Z"
+  },
+  "createdAt": {
+    "$date": "2024-06-22T18:26:46.267Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-22T18:26:46.368Z"
+  },
+  "__v": 1
+}]

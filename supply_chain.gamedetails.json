@@ -1,0 +1,920 @@
+[{
+  "_id": {
+    "$oid": "6668aeab0f3c379a60acf2e7"
+  },
+  "user": {
+    "$oid": "6627e2f39425291100e0139f"
+  },
+  "demand": 30,
+  "backOrder": 0,
+  "inventory": 0,
+  "receivedInventory": 0,
+  "shippedDemand": 100,
+  "BackOrderNextWeek": 0,
+  "orderPlaced": 100,
+  "isOrdered": true,
+  "createdAt": {
+    "$date": "2024-06-11T20:08:11.753Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-15T20:03:21.604Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6668aeab0f3c379a60acf2f5"
+  },
+  "user": {
+    "$oid": "661cb992eb64f59fcd6cac4c"
+  },
+  "demand": 0,
+  "backOrder": 0,
+  "inventory": 100,
+  "receivedInventory": 0,
+  "shippedDemand": 0,
+  "BackOrderNextWeek": 0,
+  "orderPlaced": 0,
+  "isOrdered": false,
+  "createdAt": {
+    "$date": "2024-06-11T20:08:11.853Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-11T20:08:11.853Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6668aeab0f3c379a60acf2f7"
+  },
+  "user": {
+    "$oid": "665a3a66e394d54145941f24"
+  },
+  "demand": 0,
+  "backOrder": 0,
+  "inventory": 100,
+  "receivedInventory": 0,
+  "shippedDemand": 0,
+  "BackOrderNextWeek": 0,
+  "orderPlaced": 0,
+  "isOrdered": false,
+  "createdAt": {
+    "$date": "2024-06-11T20:08:11.864Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-11T20:08:11.864Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6668aeab0f3c379a60acf2f9"
+  },
+  "user": {
+    "$oid": "661cbaa3eb64f59fcd6cac51"
+  },
+  "demand": 0,
+  "backOrder": 0,
+  "inventory": 100,
+  "receivedInventory": 0,
+  "shippedDemand": 0,
+  "BackOrderNextWeek": 0,
+  "orderPlaced": 0,
+  "isOrdered": false,
+  "createdAt": {
+    "$date": "2024-06-11T20:08:11.871Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-11T20:08:11.871Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6668aeab0f3c379a60acf2e9"
+  },
+  "user": {
+    "$oid": "6627e2f39425291100e0139f"
+  },
+  "demand": 20,
+  "backOrder": 0,
+  "inventory": 100,
+  "receivedInventory": 0,
+  "shippedDemand": 0,
+  "BackOrderNextWeek": 0,
+  "orderPlaced": 0,
+  "isOrdered": false,
+  "createdAt": {
+    "$date": "2024-06-11T20:08:11.753Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-15T20:03:21.617Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6668aeab0f3c379a60acf2ed"
+  },
+  "user": {
+    "$oid": "6627e2f39425291100e0139f"
+  },
+  "demand": 49,
+  "backOrder": 0,
+  "inventory": 0,
+  "receivedInventory": 0,
+  "shippedDemand": 0,
+  "BackOrderNextWeek": 0,
+  "orderPlaced": 0,
+  "isOrdered": false,
+  "createdAt": {
+    "$date": "2024-06-11T20:08:11.753Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-11T20:08:11.753Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6668aeac0f3c379a60acf2fc"
+  },
+  "user": {
+    "$oid": "661cb992eb64f59fcd6cac4c"
+  },
+  "demand": 100,
+  "backOrder": 0,
+  "inventory": 0,
+  "receivedInventory": 0,
+  "shippedDemand": 0,
+  "BackOrderNextWeek": 0,
+  "orderPlaced": 0,
+  "isOrdered": false,
+  "createdAt": {
+    "$date": "2024-06-11T20:08:12.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-15T20:03:21.627Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6668aeab0f3c379a60acf2eb"
+  },
+  "user": {
+    "$oid": "6627e2f39425291100e0139f"
+  },
+  "demand": 30,
+  "backOrder": 0,
+  "inventory": 0,
+  "receivedInventory": 0,
+  "shippedDemand": 0,
+  "BackOrderNextWeek": 0,
+  "orderPlaced": 0,
+  "isOrdered": false,
+  "createdAt": {
+    "$date": "2024-06-11T20:08:11.753Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-11T20:08:11.753Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6668aeac0f3c379a60acf2fe"
+  },
+  "user": {
+    "$oid": "661cb992eb64f59fcd6cac4c"
+  },
+  "demand": 0,
+  "backOrder": 0,
+  "inventory": 0,
+  "receivedInventory": 0,
+  "shippedDemand": 0,
+  "BackOrderNextWeek": 0,
+  "orderPlaced": 0,
+  "isOrdered": false,
+  "createdAt": {
+    "$date": "2024-06-11T20:08:12.016Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-11T20:08:12.016Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6668aeab0f3c379a60acf2ef"
+  },
+  "user": {
+    "$oid": "6627e2f39425291100e0139f"
+  },
+  "demand": 9,
+  "backOrder": 0,
+  "inventory": 0,
+  "receivedInventory": 0,
+  "shippedDemand": 0,
+  "BackOrderNextWeek": 0,
+  "orderPlaced": 0,
+  "isOrdered": false,
+  "createdAt": {
+    "$date": "2024-06-11T20:08:11.753Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-11T20:08:11.753Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6668aeac0f3c379a60acf300"
+  },
+  "user": {
+    "$oid": "665a3a66e394d54145941f24"
+  },
+  "demand": 0,
+  "backOrder": 0,
+  "inventory": 0,
+  "receivedInventory": 0,
+  "shippedDemand": 0,
+  "BackOrderNextWeek": 0,
+  "orderPlaced": 0,
+  "isOrdered": false,
+  "createdAt": {
+    "$date": "2024-06-11T20:08:12.021Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-11T20:08:12.021Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6668aeac0f3c379a60acf302"
+  },
+  "user": {
+    "$oid": "661cb992eb64f59fcd6cac4c"
+  },
+  "demand": 0,
+  "backOrder": 0,
+  "inventory": 0,
+  "receivedInventory": 0,
+  "shippedDemand": 0,
+  "BackOrderNextWeek": 0,
+  "orderPlaced": 0,
+  "isOrdered": false,
+  "createdAt": {
+    "$date": "2024-06-11T20:08:12.026Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-11T20:08:12.026Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6668aeac0f3c379a60acf304"
+  },
+  "user": {
+    "$oid": "665a3a66e394d54145941f24"
+  },
+  "demand": 0,
+  "backOrder": 0,
+  "inventory": 0,
+  "receivedInventory": 0,
+  "shippedDemand": 0,
+  "BackOrderNextWeek": 0,
+  "orderPlaced": 0,
+  "isOrdered": false,
+  "createdAt": {
+    "$date": "2024-06-11T20:08:12.033Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-11T20:08:12.033Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6668aeac0f3c379a60acf306"
+  },
+  "user": {
+    "$oid": "661cb992eb64f59fcd6cac4c"
+  },
+  "demand": 0,
+  "backOrder": 0,
+  "inventory": 0,
+  "receivedInventory": 0,
+  "shippedDemand": 0,
+  "BackOrderNextWeek": 0,
+  "orderPlaced": 0,
+  "isOrdered": false,
+  "createdAt": {
+    "$date": "2024-06-11T20:08:12.038Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-11T20:08:12.038Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6668aeac0f3c379a60acf308"
+  },
+  "user": {
+    "$oid": "661cbaa3eb64f59fcd6cac51"
+  },
+  "demand": 0,
+  "backOrder": 0,
+  "inventory": 0,
+  "receivedInventory": 0,
+  "shippedDemand": 0,
+  "BackOrderNextWeek": 0,
+  "orderPlaced": 0,
+  "isOrdered": false,
+  "createdAt": {
+    "$date": "2024-06-11T20:08:12.042Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-11T20:08:12.042Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6668aeac0f3c379a60acf30a"
+  },
+  "user": {
+    "$oid": "665a3a66e394d54145941f24"
+  },
+  "demand": 0,
+  "backOrder": 0,
+  "inventory": 0,
+  "receivedInventory": 0,
+  "shippedDemand": 0,
+  "BackOrderNextWeek": 0,
+  "orderPlaced": 0,
+  "isOrdered": false,
+  "createdAt": {
+    "$date": "2024-06-11T20:08:12.045Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-11T20:08:12.045Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6668aeac0f3c379a60acf30c"
+  },
+  "user": {
+    "$oid": "661cbaa3eb64f59fcd6cac51"
+  },
+  "demand": 0,
+  "backOrder": 0,
+  "inventory": 0,
+  "receivedInventory": 0,
+  "shippedDemand": 0,
+  "BackOrderNextWeek": 0,
+  "orderPlaced": 0,
+  "isOrdered": false,
+  "createdAt": {
+    "$date": "2024-06-11T20:08:12.049Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-11T20:08:12.049Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6668aeac0f3c379a60acf30e"
+  },
+  "user": {
+    "$oid": "665a3a66e394d54145941f24"
+  },
+  "demand": 0,
+  "backOrder": 0,
+  "inventory": 0,
+  "receivedInventory": 0,
+  "shippedDemand": 0,
+  "BackOrderNextWeek": 0,
+  "orderPlaced": 0,
+  "isOrdered": false,
+  "createdAt": {
+    "$date": "2024-06-11T20:08:12.053Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-11T20:08:12.053Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6668aeac0f3c379a60acf311"
+  },
+  "user": {
+    "$oid": "661cbaa3eb64f59fcd6cac51"
+  },
+  "demand": 0,
+  "backOrder": 0,
+  "inventory": 0,
+  "receivedInventory": 0,
+  "shippedDemand": 0,
+  "BackOrderNextWeek": 0,
+  "orderPlaced": 0,
+  "isOrdered": false,
+  "createdAt": {
+    "$date": "2024-06-11T20:08:12.062Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-11T20:08:12.062Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6668aeac0f3c379a60acf314"
+  },
+  "user": {
+    "$oid": "661cbaa3eb64f59fcd6cac51"
+  },
+  "demand": 0,
+  "backOrder": 0,
+  "inventory": 0,
+  "receivedInventory": 0,
+  "shippedDemand": 0,
+  "BackOrderNextWeek": 0,
+  "orderPlaced": 0,
+  "isOrdered": false,
+  "createdAt": {
+    "$date": "2024-06-11T20:08:12.068Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-11T20:08:12.068Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667717662c617f118db0ba87"
+  },
+  "user": {
+    "$oid": "6627e2f39425291100e0139f"
+  },
+  "demand": 36,
+  "backOrder": 0,
+  "inventory": 14,
+  "receivedInventory": 0,
+  "shippedDemand": 36,
+  "backOrderNextWeek": 0,
+  "orderPlaced": 70,
+  "isOrdered": true,
+  "createdAt": {
+    "$date": "2024-06-22T18:26:46.307Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-22T18:29:06.146Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667717662c617f118db0ba8b"
+  },
+  "user": {
+    "$oid": "6627e2f39425291100e0139f"
+  },
+  "demand": 93,
+  "backOrder": 0,
+  "inventory": 0,
+  "receivedInventory": 0,
+  "shippedDemand": 0,
+  "backOrderNextWeek": 0,
+  "orderPlaced": 0,
+  "isOrdered": false,
+  "createdAt": {
+    "$date": "2024-06-22T18:26:46.309Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-22T18:26:46.309Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667717662c617f118db0ba89"
+  },
+  "user": {
+    "$oid": "6627e2f39425291100e0139f"
+  },
+  "demand": 61,
+  "backOrder": 0,
+  "inventory": 14,
+  "receivedInventory": 0,
+  "shippedDemand": 0,
+  "backOrderNextWeek": 0,
+  "orderPlaced": 0,
+  "isOrdered": false,
+  "createdAt": {
+    "$date": "2024-06-22T18:26:46.309Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-22T18:29:06.156Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667717662c617f118db0ba8d"
+  },
+  "user": {
+    "$oid": "6627e2f39425291100e0139f"
+  },
+  "demand": 94,
+  "backOrder": 0,
+  "inventory": 0,
+  "receivedInventory": 0,
+  "shippedDemand": 0,
+  "backOrderNextWeek": 0,
+  "orderPlaced": 0,
+  "isOrdered": false,
+  "createdAt": {
+    "$date": "2024-06-22T18:26:46.309Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-22T18:26:46.309Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667717662c617f118db0ba8f"
+  },
+  "user": {
+    "$oid": "6627e2f39425291100e0139f"
+  },
+  "demand": 35,
+  "backOrder": 0,
+  "inventory": 0,
+  "receivedInventory": 0,
+  "shippedDemand": 0,
+  "backOrderNextWeek": 0,
+  "orderPlaced": 0,
+  "isOrdered": false,
+  "createdAt": {
+    "$date": "2024-06-22T18:26:46.309Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-22T18:26:46.309Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667717662c617f118db0ba95"
+  },
+  "user": {
+    "$oid": "661cb992eb64f59fcd6cac4c"
+  },
+  "demand": 0,
+  "backOrder": 0,
+  "inventory": 50,
+  "receivedInventory": 0,
+  "shippedDemand": 0,
+  "backOrderNextWeek": 0,
+  "orderPlaced": 0,
+  "isOrdered": false,
+  "createdAt": {
+    "$date": "2024-06-22T18:26:46.318Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-22T18:26:46.318Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667717662c617f118db0ba97"
+  },
+  "user": {
+    "$oid": "661cb992eb64f59fcd6cac4c"
+  },
+  "demand": 0,
+  "backOrder": 0,
+  "inventory": 0,
+  "receivedInventory": 0,
+  "shippedDemand": 0,
+  "backOrderNextWeek": 0,
+  "orderPlaced": 0,
+  "isOrdered": false,
+  "createdAt": {
+    "$date": "2024-06-22T18:26:46.321Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-22T18:26:46.321Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667717662c617f118db0ba99"
+  },
+  "user": {
+    "$oid": "661cb992eb64f59fcd6cac4c"
+  },
+  "demand": 0,
+  "backOrder": 0,
+  "inventory": 0,
+  "receivedInventory": 0,
+  "shippedDemand": 0,
+  "backOrderNextWeek": 0,
+  "orderPlaced": 0,
+  "isOrdered": false,
+  "createdAt": {
+    "$date": "2024-06-22T18:26:46.325Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-22T18:26:46.325Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667717662c617f118db0ba9b"
+  },
+  "user": {
+    "$oid": "661cb992eb64f59fcd6cac4c"
+  },
+  "demand": 0,
+  "backOrder": 0,
+  "inventory": 0,
+  "receivedInventory": 0,
+  "shippedDemand": 0,
+  "backOrderNextWeek": 0,
+  "orderPlaced": 0,
+  "isOrdered": false,
+  "createdAt": {
+    "$date": "2024-06-22T18:26:46.328Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-22T18:26:46.328Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667717662c617f118db0ba9d"
+  },
+  "user": {
+    "$oid": "661cb992eb64f59fcd6cac4c"
+  },
+  "demand": 70,
+  "backOrder": 0,
+  "inventory": 0,
+  "receivedInventory": 0,
+  "shippedDemand": 0,
+  "backOrderNextWeek": 0,
+  "orderPlaced": 0,
+  "isOrdered": false,
+  "createdAt": {
+    "$date": "2024-06-22T18:26:46.330Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-22T18:29:06.166Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667717662c617f118db0ba9f"
+  },
+  "user": {
+    "$oid": "665a3a66e394d54145941f24"
+  },
+  "demand": 0,
+  "backOrder": 0,
+  "inventory": 50,
+  "receivedInventory": 0,
+  "shippedDemand": 0,
+  "backOrderNextWeek": 0,
+  "orderPlaced": 60,
+  "isOrdered": true,
+  "createdAt": {
+    "$date": "2024-06-22T18:26:46.332Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-22T18:28:09.290Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667717662c617f118db0baa1"
+  },
+  "user": {
+    "$oid": "665a3a66e394d54145941f24"
+  },
+  "demand": 0,
+  "backOrder": 0,
+  "inventory": 0,
+  "receivedInventory": 0,
+  "shippedDemand": 0,
+  "backOrderNextWeek": 0,
+  "orderPlaced": 0,
+  "isOrdered": false,
+  "createdAt": {
+    "$date": "2024-06-22T18:26:46.335Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-22T18:26:46.335Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667717662c617f118db0baa3"
+  },
+  "user": {
+    "$oid": "665a3a66e394d54145941f24"
+  },
+  "demand": 0,
+  "backOrder": 0,
+  "inventory": 0,
+  "receivedInventory": 0,
+  "shippedDemand": 0,
+  "backOrderNextWeek": 0,
+  "orderPlaced": 0,
+  "isOrdered": false,
+  "createdAt": {
+    "$date": "2024-06-22T18:26:46.337Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-22T18:26:46.337Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667717662c617f118db0baa5"
+  },
+  "user": {
+    "$oid": "665a3a66e394d54145941f24"
+  },
+  "demand": 0,
+  "backOrder": 0,
+  "inventory": 0,
+  "receivedInventory": 0,
+  "shippedDemand": 0,
+  "backOrderNextWeek": 0,
+  "orderPlaced": 0,
+  "isOrdered": false,
+  "createdAt": {
+    "$date": "2024-06-22T18:26:46.340Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-22T18:26:46.340Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667717662c617f118db0baa7"
+  },
+  "user": {
+    "$oid": "665a3a66e394d54145941f24"
+  },
+  "demand": 0,
+  "backOrder": 0,
+  "inventory": 50,
+  "receivedInventory": 0,
+  "shippedDemand": 0,
+  "backOrderNextWeek": 0,
+  "orderPlaced": 0,
+  "isOrdered": false,
+  "createdAt": {
+    "$date": "2024-06-22T18:26:46.343Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-22T18:28:09.300Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667717662c617f118db0baa9"
+  },
+  "user": {
+    "$oid": "661cbaa3eb64f59fcd6cac51"
+  },
+  "demand": 0,
+  "backOrder": 0,
+  "inventory": 50,
+  "receivedInventory": 0,
+  "shippedDemand": 0,
+  "backOrderNextWeek": 0,
+  "orderPlaced": 50,
+  "isOrdered": true,
+  "createdAt": {
+    "$date": "2024-06-22T18:26:46.345Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-22T18:27:24.191Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667717662c617f118db0baab"
+  },
+  "user": {
+    "$oid": "661cbaa3eb64f59fcd6cac51"
+  },
+  "demand": 0,
+  "backOrder": 0,
+  "inventory": 0,
+  "receivedInventory": 0,
+  "shippedDemand": 0,
+  "backOrderNextWeek": 0,
+  "orderPlaced": 0,
+  "isOrdered": false,
+  "createdAt": {
+    "$date": "2024-06-22T18:26:46.347Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-22T18:26:46.347Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667717662c617f118db0baad"
+  },
+  "user": {
+    "$oid": "661cbaa3eb64f59fcd6cac51"
+  },
+  "demand": 0,
+  "backOrder": 0,
+  "inventory": 0,
+  "receivedInventory": 0,
+  "shippedDemand": 0,
+  "backOrderNextWeek": 0,
+  "orderPlaced": 0,
+  "isOrdered": false,
+  "createdAt": {
+    "$date": "2024-06-22T18:26:46.349Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-22T18:26:46.349Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667717662c617f118db0baaf"
+  },
+  "user": {
+    "$oid": "661cbaa3eb64f59fcd6cac51"
+  },
+  "demand": 0,
+  "backOrder": 0,
+  "inventory": 0,
+  "receivedInventory": 0,
+  "shippedDemand": 0,
+  "backOrderNextWeek": 0,
+  "orderPlaced": 0,
+  "isOrdered": false,
+  "createdAt": {
+    "$date": "2024-06-22T18:26:46.351Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-22T18:26:46.351Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667717662c617f118db0bab1"
+  },
+  "user": {
+    "$oid": "661cbaa3eb64f59fcd6cac51"
+  },
+  "demand": 60,
+  "backOrder": 0,
+  "inventory": 50,
+  "receivedInventory": 0,
+  "shippedDemand": 0,
+  "backOrderNextWeek": 0,
+  "orderPlaced": 0,
+  "isOrdered": false,
+  "createdAt": {
+    "$date": "2024-06-22T18:26:46.353Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-22T18:28:09.316Z"
+  },
+  "__v": 0
+}]

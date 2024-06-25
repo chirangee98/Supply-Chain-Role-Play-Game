@@ -1,0 +1,15 @@
+user pannal 
+-approve order list 
+-update wallet addres
+
+
+
+admin pannal 
+show approve user list 
+
+
+
+
+sa1@gmail.com admin sa1
+r2@gmail.com retailer r2
+

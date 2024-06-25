@@ -1,0 +1,300 @@
+[{
+  "_id": {
+    "$oid": "6668aeab0f3c379a60acf2e6"
+  },
+  "game": {
+    "$oid": "6668aeab0f3c379a60acf2e0"
+  },
+  "status": false,
+  "gameDetails": [
+    {
+      "$oid": "6668aeab0f3c379a60acf2e7"
+    },
+    {
+      "$oid": "6668aeab0f3c379a60acf2f5"
+    },
+    {
+      "$oid": "6668aeab0f3c379a60acf2f7"
+    },
+    {
+      "$oid": "6668aeab0f3c379a60acf2f9"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-11T20:08:11.880Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-11T20:08:11.880Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6668aeab0f3c379a60acf2e8"
+  },
+  "game": {
+    "$oid": "6668aeab0f3c379a60acf2e0"
+  },
+  "status": false,
+  "gameDetails": [
+    {
+      "$oid": "6668aeab0f3c379a60acf2e9"
+    },
+    {
+      "$oid": "6668aeac0f3c379a60acf2fc"
+    },
+    {
+      "$oid": "6668aeac0f3c379a60acf300"
+    },
+    {
+      "$oid": "6668aeac0f3c379a60acf308"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-11T20:08:12.058Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-11T20:08:12.058Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6668aeab0f3c379a60acf2ec"
+  },
+  "game": {
+    "$oid": "6668aeab0f3c379a60acf2e0"
+  },
+  "status": false,
+  "gameDetails": [
+    {
+      "$oid": "6668aeab0f3c379a60acf2ed"
+    },
+    {
+      "$oid": "6668aeac0f3c379a60acf2fe"
+    },
+    {
+      "$oid": "6668aeac0f3c379a60acf304"
+    },
+    {
+      "$oid": "6668aeac0f3c379a60acf30c"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-11T20:08:12.065Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-11T20:08:12.065Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6668aeab0f3c379a60acf2ea"
+  },
+  "game": {
+    "$oid": "6668aeab0f3c379a60acf2e0"
+  },
+  "status": false,
+  "gameDetails": [
+    {
+      "$oid": "6668aeab0f3c379a60acf2eb"
+    },
+    {
+      "$oid": "6668aeac0f3c379a60acf302"
+    },
+    {
+      "$oid": "6668aeac0f3c379a60acf30a"
+    },
+    {
+      "$oid": "6668aeac0f3c379a60acf311"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-11T20:08:12.072Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-11T20:08:12.072Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6668aeab0f3c379a60acf2ee"
+  },
+  "game": {
+    "$oid": "6668aeab0f3c379a60acf2e0"
+  },
+  "status": false,
+  "gameDetails": [
+    {
+      "$oid": "6668aeab0f3c379a60acf2ef"
+    },
+    {
+      "$oid": "6668aeac0f3c379a60acf306"
+    },
+    {
+      "$oid": "6668aeac0f3c379a60acf30e"
+    },
+    {
+      "$oid": "6668aeac0f3c379a60acf314"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-11T20:08:12.075Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-11T20:08:12.075Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667717662c617f118db0ba86"
+  },
+  "game": {
+    "$oid": "667717662c617f118db0ba80"
+  },
+  "status": false,
+  "gameDetails": [
+    {
+      "$oid": "667717662c617f118db0ba87"
+    },
+    {
+      "$oid": "667717662c617f118db0ba95"
+    },
+    {
+      "$oid": "667717662c617f118db0ba9f"
+    },
+    {
+      "$oid": "667717662c617f118db0baa9"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-22T18:26:46.357Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-22T18:26:46.357Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667717662c617f118db0ba8c"
+  },
+  "game": {
+    "$oid": "667717662c617f118db0ba80"
+  },
+  "status": false,
+  "gameDetails": [
+    {
+      "$oid": "667717662c617f118db0ba8d"
+    },
+    {
+      "$oid": "667717662c617f118db0ba97"
+    },
+    {
+      "$oid": "667717662c617f118db0baa1"
+    },
+    {
+      "$oid": "667717662c617f118db0baab"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-22T18:26:46.359Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-22T18:26:46.359Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667717662c617f118db0ba8a"
+  },
+  "game": {
+    "$oid": "667717662c617f118db0ba80"
+  },
+  "status": false,
+  "gameDetails": [
+    {
+      "$oid": "667717662c617f118db0ba8b"
+    },
+    {
+      "$oid": "667717662c617f118db0ba99"
+    },
+    {
+      "$oid": "667717662c617f118db0baa3"
+    },
+    {
+      "$oid": "667717662c617f118db0baad"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-22T18:26:46.361Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-22T18:26:46.361Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667717662c617f118db0ba8e"
+  },
+  "game": {
+    "$oid": "667717662c617f118db0ba80"
+  },
+  "status": false,
+  "gameDetails": [
+    {
+      "$oid": "667717662c617f118db0ba8f"
+    },
+    {
+      "$oid": "667717662c617f118db0ba9b"
+    },
+    {
+      "$oid": "667717662c617f118db0baa5"
+    },
+    {
+      "$oid": "667717662c617f118db0baaf"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-22T18:26:46.362Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-22T18:26:46.362Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667717662c617f118db0ba88"
+  },
+  "game": {
+    "$oid": "667717662c617f118db0ba80"
+  },
+  "status": false,
+  "gameDetails": [
+    {
+      "$oid": "667717662c617f118db0ba89"
+    },
+    {
+      "$oid": "667717662c617f118db0ba9d"
+    },
+    {
+      "$oid": "667717662c617f118db0baa7"
+    },
+    {
+      "$oid": "667717662c617f118db0bab1"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-22T18:26:46.364Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-22T18:26:46.364Z"
+  },
+  "__v": 0
+}]
